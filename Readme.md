@@ -5,7 +5,7 @@ I am a Kenya-based professional dedicated to socio-economic empowerment through 
 
 ---
 
-## 🎓 Education & Teaching
+## 🎓 Education & Teaching9
 - **[span_0](start_span)Bachelor of Education (Arts):** Specialized in English and Literature[span_0](end_span).
 - **[span_1](start_span)Academic Impact:** Improved student performance in English from **4.3 to 6.1** through innovative methodology[span_1](end_span).
 - **[span_2](start_span)Leadership:** Founder & Patron of the Career and Mentorship Club[span_2](end_span).
@@ -14,15 +14,16 @@ I am a Kenya-based professional dedicated to socio-economic empowerment through 
 
 ## 💻 Featured Technical Projects
 
-### 🏆 Nairobi Prime | Elite Service Verification
-A premium, black-and-gold themed platform designed for verified high-end service discovery in Nairobi.
-- **Key Features:** Merchant authorization dashboard, "Prime Verified" onboarding, and black-friday deal logic.
-- **Tech:** HTML5, CSS3 (Advanced Gradients), JavaScript (Logic-based Filtering).
+### 🏆 [Nairobi Prime | Elite Service Verification](https://murenyiedward-ops.github.io/NAIROBIPRIME/)
+A premium platform for verified high-end service discovery in Nairobi.
+- **Key Features:** Merchant authorization dashboard, "Prime Verified" onboarding.
+- **Live Demo:** [View Site](https://murenyiedward-ops.github.io/NAIROBIPRIME/)
 
-### 🌍 SOMATEXT | Community Commerce Hub
+### 🌍 [SOMATEXT | Community Commerce Hub](https://murenyiedward-ops.github.io/somatext/)
 A mobile-first marketplace built to empower local vendors in Mwihoko.
-- **Key Features:** Real-time listing publishing, WhatsApp Business integration, and local-storage data persistence.
-- **Goal:** Promoting local economic growth through accessible digital tools.
+- **Key Features:** Real-time listing publishing, WhatsApp integration.
+- **Live Demo:** [View Site](https://murenyiedward-ops.github.io/somatext/)
+ through accessible digital tools.
 
 ---
 
