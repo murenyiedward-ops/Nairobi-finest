@@ -17,7 +17,7 @@ I am a Kenya-based professional dedicated to socio-economic empowerment through 
 ### 🏆 [Nairobi Prime | Elite Service Verification](https://murenyiedward-ops.github.io/NAIROBIPRIME/)
 A premium platform for verified high-end service discovery in Nairobi.
 - **Key Features:** Merchant authorization dashboard, "Prime Verified" onboarding.
-- **Live Demo:** [View Site](https://murenyiedward-ops.github.io/NAIROBIPRIME/)
+- **Live Demo:** [View Site](https://murenyiedward-ops.github.io/NBOPRIME/)
 
 ### 🌍 [SOMATEXT | Community Commerce Hub](https://murenyiedward-ops.github.io/somatext/)
 A mobile-first marketplace built to empower local vendors in Mwihoko.
