@@ -22,7 +22,7 @@ A premium platform for verified high-end service discovery in Nairobi.
 ### 🌍 [SOMATEXT | Community Commerce Hub](https://murenyiedward-ops.github.io/somatext/)
 A mobile-first marketplace built to empower local vendors in Mwihoko.
 - **Key Features:** Real-time listing publishing, WhatsApp integration.
-- **Live Demo:** [View Site](https://murenyiedward-ops.github.io/somatext/)
+- **Live Demo:** [View Site](https://murenyiedward-ops.github.io/SOMATEXT-mwihoko-/)
  through accessible digital tools.
 
 ---
